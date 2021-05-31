@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile.jpg">
 
-Hello! I am a junior year student studying Electrical and Computer Engineering at the <a href="https://olin.edu">Olin College of Engineering</a>.
+Hello! I am a student studying Electrical and Computer Engineering at the <a href="https://olin.edu">Olin College of Engineering</a>.
 
 ## Portfolio
 
