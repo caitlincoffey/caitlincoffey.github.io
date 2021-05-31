@@ -11,6 +11,11 @@ footer: no
 footer_url: "https://github.com/ankitsultana"
 footer_text: "Page design by Ankit Sultana"
 
+favicon: yes
+favicon_location: favicon.ico
+
+twitter_username: caitlincoffeee
+
 sass:
     style: compressed
     sass_dir: _sass
