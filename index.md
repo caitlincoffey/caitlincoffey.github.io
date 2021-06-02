@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="profile.jpg">
+<img class="profile-picture" src="profile_new.jpg">
 
 Hello! I am a student studying Electrical and Computer Engineering at the <a href="https://olin.edu">Olin College of Engineering</a>.
 
