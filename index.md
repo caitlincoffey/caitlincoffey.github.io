@@ -8,7 +8,7 @@ layout: default
 
 Hello! I am a student studying Electrical and Computer Engineering at the <a href="https://olin.edu">Olin College of Engineering</a>. I'm passionate about cybersecurity, embedded systems, and data science/AI applications. 
 
-Below is a collection of my project work, documenting my breadth and experience in these fields. For more information about my work experience, please view my <a href="https://caitlincoffey.com/caitlin_coffey_resume_spring_2022.pdf">CV</a>.
+Below is a collection of my project work, documenting my breadth and experience in these fields. For more information about my work experience, please view my <a href="https://caitlincoffey.com/caitlin_coffey_resume_summer_2022.pdf">CV</a>.
 
 ## Portfolio
 - [Refreshable Braille Display](https://olincollege.github.io/pie-2021-03/Braille-Display/), an integrated mechanical system that produces legible braille from screen input. Code written in C and Python. 
