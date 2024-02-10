@@ -6,11 +6,12 @@ layout: default
 
 <img class="profile-picture" src="profile_new.jpg">
 
-Hello! I am a student studying Electrical and Computer Engineering at the <a href="https://olin.edu">Olin College of Engineering</a>. I'm passionate about cybersecurity, embedded systems, and data science/AI applications. 
+Hello! I am a Cyber Technical Associate at Capital One and recent graduate from the <a href="https://olin.edu">Olin College of Engineering</a>. I'm passionate about cybersecurity, embedded systems, and data science/AI applications. 
 
-Below is a collection of my project work, documenting my breadth and experience in these fields. For more information about my work experience, please view my <a href="https://caitlincoffey.com/caitlin_coffey_resume_summer_2022.pdf">CV</a>.
+Below is a collection of my project work, documenting my breadth and experience in these fields. For more information about my work experience, please view my <a href="https://caitlincoffey.com/caitlin_coffey_resume_feb2024.pdf">CV</a>.
 
 ## Portfolio
+-[Static Malware Analysis Tutorial](https://caitlincoffey.com/malwareanalysis/), a tutorial for people familiar with Reverse Engineering to get started with analyzing malware and creating effective YARA rules.
 - [Refreshable Braille Display](https://olincollege.github.io/pie-2021-03/Braille-Display/), an integrated mechanical system that produces legible braille from screen input. Code written in C and Python. 
 - [Reverse Engineering with Ghidra](https://sites.google.com/view/ghidra-reverse-engineering/home#h.s1qs2m8gk4s9), a resource for people new to reverse engineering with some practice exercises included.
 - [LC-3 Virtual Machine](https://github.com/caitlincoffey/SoftSysGarbageEaters), a reduced instruction set computer (RISC) written in C that can run .obj files on Linux/Unix systems.
