@@ -8,7 +8,7 @@ layout: default
 
 Hello! I am a Cyber Technical Associate at Capital One and recent graduate from the <a href="https://olin.edu">Olin College of Engineering</a>. I'm passionate about cybersecurity, embedded systems, and data science/AI applications. 
 
-Below is a collection of my project work, documenting my breadth and experience in these fields. For more information about my work experience, please view my <a href="https://caitlincoffey.com/caitlin_coffey_resume_feb2024.pdf">CV</a>.
+Below is a collection of my project work, documenting my breadth and experience in these fields. For more information about my work experience, please view my <a href="https://caitlincoffey.com/caitlin_coffey_resume_summer_2026.pdf">CV</a>.
 
 ## Portfolio
 - [A Guide to Static Malware Analysis](https://caitlincoffey.com/malwareanalysis/), a tutorial for people familiar with reverse engineering to get started with analyzing malware and creating effective YARA rules.
